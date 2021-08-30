@@ -2,6 +2,7 @@
 
 #imports
 import csv
+import config
 from getpass import getpass
 from time import sleep
 
@@ -14,12 +15,13 @@ from selenium.webdriver import Chrome
 driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_92/chromedriver.exe")
 driver.get("https://www.twitter.com/login")
 
+sleep(2)
+
 #login to twitter using xpath, selenium, python
 username = driver.find_element_by_xpath('//input[@name="session[username_or_email]"]')
-username.send_keys(my_email)
+username.send_keys(config.my_email)
 
-my_pw = getpass()
 password = driver.find_element_by_xpath('//input[@name="session[password]"]')
-password.send_keys(my_pw)
+password.send_keys(config.my_pw)
 
 password.send_keys(Keys.RETURN)
