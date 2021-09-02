@@ -69,4 +69,7 @@ for tweet in tweets:
 
 sleep(2)
 
+#scroll script
+driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+
 print(tweet_likes[0])
