@@ -36,7 +36,37 @@ search_keyword.send_keys(Keys.RETURN)
 
 ##navigate to tabs to sort twitter data
 # driver.find_element_by_link_text('Latest').click()
-
+sleep(2)
 #get tweets on current page
 tweets = driver.find_elements_by_xpath('//div[@data-testid="tweet"]')
 
+#tweet1 = tweets[0]
+
+#when getting timedate data, ads/sponsers will have null values for this field
+
+# get likes
+# returns username and likes as a tuple
+def getTweetData(tweet):
+    ###extract likes from tweets###
+    username = tweet.find_element_by_xpath('.//span').text
+    likes = tweet.find_element_by_xpath('.//div[@data-testid="like"]').text
+    try:
+        postDate = tweet.find_element_by_xpath('.//time').get_attribute('datetime')
+    except NoSuchElementException:
+        return
+    txt = tweet.find_element_by_xpath('.//div[2]/div[2]/div[1]').text
+
+    userLikes = (username, likes, txt)
+    return userLikes
+
+#get likes from tweets:
+tweet_likes = []
+
+for tweet in tweets:
+    likesData = getTweetData(tweet)
+    if likesData is not None:
+        tweet_likes.append(likesData)
+
+sleep(2)
+
+print(tweet_likes[0])
