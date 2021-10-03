@@ -13,16 +13,20 @@ from selenium.webdriver import Chrome
 
 #define path to where chromedriver lives on pc
 driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_92/chromedriver.exe")
-driver.get("https://www.twitter.com/login")
+driver.get("https://twitter.com/i/flow/login")
 
 #sleep to allow webpage to load
-sleep(2)
+sleep(3)
 
 #login to twitter using xpath, selenium, python
-username = driver.find_element_by_xpath('//input[@name="session[username_or_email]"]')
+username = driver.find_element_by_xpath('//input[@class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-t60dpp r-1dz5y72 r-fdjqy7 r-13qz1uu"]')
 username.send_keys(config.my_email)
 
-password = driver.find_element_by_xpath('//input[@name="session[password]"]')
+username.send_keys(Keys.RETURN)
+
+sleep(3)
+
+password = driver.find_element_by_xpath('//input[@class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-t60dpp r-1dz5y72 r-fdjqy7 r-13qz1uu"]')
 password.send_keys(config.my_pw)
 
 password.send_keys(Keys.RETURN)
@@ -38,7 +42,7 @@ search_keyword.send_keys(Keys.RETURN)
 # driver.find_element_by_link_text('Latest').click()
 sleep(2)
 #get tweets on current page
-tweets = driver.find_elements_by_xpath('//div[@data-testid="tweet"]')
+tweets = driver.find_elements_by_xpath('//article[@data-testid="tweet"]')
 
 #tweet1 = tweets[0]
 
@@ -54,7 +58,10 @@ def getTweetData(tweet):
         postDate = tweet.find_element_by_xpath('.//time').get_attribute('datetime')
     except NoSuchElementException:
         return
-    txt = tweet.find_element_by_xpath('.//div[2]/div[2]/div[1]').text
+    #txt = tweet.find_element_by_xpath('.//div[2]/div[2]/div[1]').text
+    comment = tweet.find_element_by_xpath('.//div[2]/div[2]/div[2]/div[1]').text
+    responding = tweet.find_element_by_xpath('.//div[2]/div[2]/div[2]/div[2]').text
+    txt = comment + responding
 
     userLikes = (username, likes, txt)
     return userLikes
@@ -67,9 +74,16 @@ for tweet in tweets:
     if likesData is not None:
         tweet_likes.append(likesData)
 
-sleep(2)
+sleep(4)
 
+#TODO
 #scroll script
-driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
+#driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
 
-print(tweet_likes[0])
+
+#saving tweet data:
+with open('savedTweetData.csv', 'w', newline='', encoding='utf-8') as f:
+    header = ['name', 'likes', 'text']
+    writer = csv.writer(f)
+    writer.writerow(header)
+    writer.writerows(tweet_likes)
