@@ -12,7 +12,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import Chrome
 
 #define path to where chromedriver lives on pc
-driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_92/chromedriver.exe")
+#download updated chromedriver with each version and change path
+driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_97/chromedriver.exe")
 driver.get("https://twitter.com/i/flow/login")
 
 #sleep to allow webpage to load
@@ -43,8 +44,8 @@ search_keyword.send_keys(Keys.RETURN)
 sleep(2)
 #get tweets on current page
 tweets = driver.find_elements_by_xpath('//article[@data-testid="tweet"]')
+print("heree")
 
-#tweet1 = tweets[0]
 
 #when getting timedate data, ads/sponsers will have null values for this field
 
@@ -70,7 +71,7 @@ def getTweetData(tweet):
 tweet_likes = []
 
 for tweet in tweets:
-    likesData = getTweetData(tweet)
+    likesData = tweet.find_element_by_xpath('.//div[@data-testid="like"]').text #= getTweetData(tweet)
     if likesData is not None:
         tweet_likes.append(likesData)
 
@@ -79,7 +80,6 @@ sleep(4)
 #TODO
 #scroll script
 #driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
-
 
 #saving tweet data:
 with open('savedTweetData.csv', 'w', newline='', encoding='utf-8') as f:
