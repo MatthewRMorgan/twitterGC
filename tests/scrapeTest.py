@@ -13,7 +13,7 @@ from selenium.webdriver import Chrome
 
 #define path to where chromedriver lives on pc
 #download updated chromedriver with each version and change path
-driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_97/chromedriver.exe")
+driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_99/chromedriver.exe")
 driver.get("https://twitter.com/i/flow/login")
 
 #sleep to allow webpage to load
