@@ -5,6 +5,7 @@ import csv
 import config
 from getpass import getpass
 from time import sleep
+import tweepy
 
 #selenium imports (needs selenium, python installed)
 from selenium.webdriver.common.keys import Keys
@@ -13,6 +14,8 @@ from selenium.webdriver import Chrome
 
 #define path to where chromedriver lives on pc
 #download updated chromedriver with each version and change path
+
+#TODO: create function to autoupdate the selenium chromedriver software
 driver = Chrome(executable_path="C:/Users/matth/Downloads/chromedriver_99/chromedriver.exe")
 driver.get("https://twitter.com/i/flow/login")
 
@@ -87,3 +90,5 @@ with open('savedTweetData.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow(header)
     writer.writerows(tweet_likes)
+
+driver.close()
