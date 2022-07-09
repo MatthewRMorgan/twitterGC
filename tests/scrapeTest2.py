@@ -14,8 +14,13 @@ auth.set_access_token(access_token,access_secret)
 api = tweepy.API(auth)
 
 user = api.get_user(screen_name='SinaiGenetics')
-print(user.followers)
-#expect 1339
+followers = []
+for tweet in tweepy.Cursor(api.search_tweets, q='#genechat', count=10).items():
+    followers.append(tweet.user.followers_count)
+    pass
+
+print(len(followers))
+#expect 1372
 
 #public_tweets = api.home_timeline()
 #for tweet in public_tweets:
