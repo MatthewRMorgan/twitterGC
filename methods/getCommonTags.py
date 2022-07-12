@@ -22,20 +22,26 @@ api = tweepy.API(auth)
 #find and store genetic counseling tweets for prospective students
 def findCommonHashTags(keyWord):
     hashtags = []
-    for tweet in tweepy.Cursor(api.search_tweets, q=keyWord, count=10000).items():
+    for tweet in tweepy.Cursor(api.search_tweets, q=keyWord, count=100).items():
         hashtagList = tweet.entities.get('hashtags')
         for i in range(len(hashtagList)):
             hashtags.append(hashtagList[i]['text'])
         pass
     return hashtags
 
+def getTweets(keyWord):
+    hashtags = []
+    for tweet in tweepy.Cursor(api.search_tweets, q=keyWord, count=100).items():
+        hashtags.append(tweet.user)
+    return hashtags
+
 hashtags = []
-searchTermList = ['genetic counseling', 'genetic counseling prospective', 'genetic counseling prospective student', 
-'genetic counseling webinar', 'genetic counseling students', 'genetic counseling open house']
+searchTermList = ['prospective student genetic counseling']
 for i in range(len(searchTermList)):
-    hashtags += findCommonHashTags(searchTermList[i])
+    #hashtags += findCommonHashTags(searchTermList[i])
+    hashtags += getTweets(searchTermList[i])
 
 counter = Counter(hashtags)
 freqHashtags = counter.most_common(4)
 
-print(freqHashtags)
+print(hashtags)
