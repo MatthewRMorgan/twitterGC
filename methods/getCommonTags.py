@@ -32,7 +32,7 @@ def findCommonHashTags(keyWord):
 def getTweets(keyWord):
     hashtags = []
     for tweet in tweepy.Cursor(api.search_tweets, q=keyWord, count=100).items():
-        hashtags.append(tweet.user)
+        hashtags.append(tweet.text)
     return hashtags
 
 hashtags = []
