@@ -1,4 +1,5 @@
 config.py
 tests/config.py
 methods/config.py
+config.pyc
 __pycache__
