@@ -1,0 +1,2 @@
+pyramid==1.10.5
+pyramid-jinja2==2.8

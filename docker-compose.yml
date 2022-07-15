@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  # Pyramid Web Server
+  web-server:
+    build:
+      context: ./server
+    ports:
+      - 8000:1234       # Web server port
+    env_file:
+      ./credentials.env
+    volumes:
+      - ./server/src:/app
+    container_name: twitterGC-web-server
