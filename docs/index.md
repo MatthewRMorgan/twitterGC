@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/MatthewRMorgan/twitterGC/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <button name="button" onclick="http://geneplace.com/geneplace2">geneplace2 BUTTON</button>
+
 {% include button.html url="http://geneplace.com/geneplace2" %}
+
 <button name="button" onclick="http://www.google.com">Click me! BUTTON</button>
 ### Markdown
 
