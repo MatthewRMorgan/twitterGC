@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/MatthewRMorgan/twitterGC/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<button name="button" onclick="[http://geneplace.com/geneplace2](https://geneplace.com/geneplace2)">geneplace2 BUTTON</button>
-
+<button name="button" onclick="http://geneplace.com/geneplace2">geneplace2 BUTTON</button>
+{% include button.html url="http://geneplace.com/geneplace2" %}
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
