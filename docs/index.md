@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <button name="button" onclick="http://geneplace.com/geneplace2">geneplace2 BUTTON</button>
 {% include button.html url="http://geneplace.com/geneplace2" %}
+<button name="button" onclick="http://www.google.com">Click me</button>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
