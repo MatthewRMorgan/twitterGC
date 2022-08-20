@@ -4,7 +4,7 @@
 <title>Gene Place</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="resources/styles/index.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -19,13 +19,18 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("/resources/pictures/dnaphoto.jpg");
+  background-image: url("resources/pictures/dnaphoto.jpg");
   min-height: 100%;
 }
 
 .w3-bar .w3-button {
   padding: 16px;
 }
+
+.flexible {
+    flex-grow: 1;
+}
+
 </style>
 </head>
 <!-- Google tag (gtag.js) -->
@@ -48,7 +53,6 @@ body, html {
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
-      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> PRICING</a>
       <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACT</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
@@ -115,7 +119,7 @@ body, html {
   </div>
 </div>
 
-<!-- Promo Section - "We know design" -->
+<!-- Promo Section - "current sections" -->
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
@@ -124,7 +128,7 @@ body, html {
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Current Projects</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/resources/pictures/currentproject.jpg" alt="Current Projects" width="700" height="394">
+      <img class="w3-image w3-round-large" src="resources/pictures/currentproject.jpg" alt="Current Projects" width="700" height="394">
     </div>
   </div>
 </div>
@@ -209,18 +213,18 @@ body, html {
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-card">
-          <img src="/resources/pictures/genetic-counselling.jpg" alt="Genetic Counseling" style="width:100%">
+          <img src="resources/pictures/genetic-counselling.jpg" alt="Genetic Counseling" class="w3-image-content">
           <div class="w3-container">
-            <h3>Prospective Genetic Counseling Students</h3>
+            <h3 class="flexible">Prospective Genetic Counseling Students</h3>
             <p><button class="w3-button w3-light-grey w3-block"> Resources</button></p>
           </div>
         </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
         <div class="w3-card">
-          <img src="/resources/pictures/raredisease.png" alt="Rare Disease" style="width:100%">
+          <img src="resources/pictures/raredisease3.png" alt="Rare Disease" class="w3-image-content">
           <div class="w3-container">
-            <h3>Rare Disease Community</h3>
+            <h3 class="flexible">Rare Disease Community</h3>
             <p><button class="w3-button w3-light-grey w3-block"> Resources</button></p>
           </div>
         </div>
@@ -341,7 +345,7 @@ body, html {
       </p>
     </form>
     <!-- Image of location/map -->
-    <img src="/resources/pictures/dnaphoto.jpg" class="w3-image w3-greyscale" style="width:100%;margin-top:48px">
+    <img src="resources/pictures/dnaphoto.jpg" class="w3-image w3-greyscale" style="width:100%;margin-top:48px">
   </div>
 </div>
 
