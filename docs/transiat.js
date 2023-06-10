@@ -79,7 +79,7 @@ define(['pipAPI','https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/iat8.j
 		},
 
 		base_url : {//Where are your images at?
-			image : '/implicit/user/demo.us/demo.trans.0001/images'
+			image: 'https://github.com/MatthewRMorgan/twitterGC/tree/main/docs/resources/pictures/IAT'
 		},
 		isTouch : global.isTouch,		
 		//attribute1, and attribute2 will be replaced with the name of attribute1 and attribute2.
