@@ -1,4 +1,4 @@
-define(['pipAPI','https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtrics/quiat8.js'], function(APIConstructor, iatExtension){
+define(['pipAPI','https://baranan.github.io/minno-tasks/quiat8.js'], function(APIConstructor, iatExtension){
 	var API = new APIConstructor();
     var global = API.getGlobal();
 
@@ -81,14 +81,7 @@ define(['pipAPI','https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtr
 		base_url : {//Where are your images at?
 			image: 'https://github.com/MatthewRMorgan/twitterGC/tree/main/docs/resources/pictures/IAT'
 		},
-		isTouch : global.isTouch,		
-		//attribute1, and attribute2 will be replaced with the name of attribute1 and attribute2.
-		//categoryA is the name of the category that is found to be associated with attribute1,
-		//and categoryB is the name of the category that is found to be associated with attribute2.
-		fb_strong_Att1WithCatA_Att2WithCatB : 'Your data suggest strong automatic preference for categoryB over categoryA.',
-		fb_moderate_Att1WithCatA_Att2WithCatB : 'Your data suggest moderate automatic preference for categoryB over categoryA.',
-		fb_slight_Att1WithCatA_Att2WithCatB : 'Your data suggest weak automatic preference for categoryB over categoryA.',
-		fb_equal_CatAvsCatB : 'Your data suggest no automatic preference between categoryA and categoryB.'
+		
 	});
 });
 
