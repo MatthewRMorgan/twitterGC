@@ -1,6 +1,6 @@
 define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtrics/quiat9.js'], function (APIConstructor, iatExtension) {
 	var API = new APIConstructor();
-	var global = API.getGlobal();
+	//var global = API.getGlobal();
 
 	return iatExtension({
 		category1: {
@@ -81,7 +81,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 		base_url: {//Where are your images at?
 			image: '/implicit/user/demo.us/demo.trans.0001/images'
 		},
-		isTouch: global.isTouch,
+		//isTouch: global.isTouch,
 		//attribute1, and attribute2 will be replaced with the name of attribute1 and attribute2.
 		//categoryA is the name of the category that is found to be associated with attribute1,
 		//and categoryB is the name of the category that is found to be associated with attribute2.
