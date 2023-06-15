@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@master/IAT/qualtrics/quiat10.js'], function (APIConstructor, iatExtension) {
+define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@master/IAT/qualtrics/quiat10.js'], function(APIConstructor, iatExtension) {
 	var API = new APIConstructor();
 	//var global = API.getGlobal();
 
@@ -80,7 +80,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@master/IAT/qu
 		
 
 		base_url: {//Where are your images at?
-			image: 'https://github.com/MatthewRMorgan/twitterGC/tree/main/docs/resources/pictures/IAT/'
+			image: 'https://geneplace.com/resources/pictures/IAT/'
 		},
 		//isTouch: global.isTouch,
 		//attribute1, and attribute2 will be replaced with the name of attribute1 and attribute2.
