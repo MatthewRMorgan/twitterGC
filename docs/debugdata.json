@@ -1,0 +1,4450 @@
+[
+    {
+        "created_at": "Wed Jun 28 23:13:49 +0000 2023",
+        "id": 1674194420277841921,
+        "id_str": "1674194420277841921",
+        "text": "RT @DrAshM2: 1./13\nI have FOMO on #Eshg2023 so here is a tweetorial \ud83e\uddf5on:\n\n\u2018How to interpret a VUS for the medical specialist\u2019\n\nPic from @ju\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Eshg2023",
+                    "indices": [
+                        34,
+                        43
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrAshM2",
+                    "name": "Ashish Marwaha, BMBCh, MA, PhD, FCCMG, FRCPC",
+                    "id": 1367307235852886017,
+                    "id_str": "1367307235852886017",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19461324,
+            "id_str": "19461324",
+            "name": "Jessica Hartley",
+            "screen_name": "JessHarts",
+            "location": "Winnipeg, Manitoba",
+            "description": "she\\her | canadian genetic counsellor | umb program director | dog person | winterpegger | treaty 1 | opinions my own",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 125,
+            "friends_count": 215,
+            "listed_count": 3,
+            "created_at": "Sat Jan 24 20:17:42 +0000 2009",
+            "favourites_count": 356,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 99,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1230624661504806912/NJIh3RMI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230624661504806912/NJIh3RMI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19461324/1636480543",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Jun 09 13:32:25 +0000 2023",
+            "id": 1667162736038678528,
+            "id_str": "1667162736038678528",
+            "text": "1./13\nI have FOMO on #Eshg2023 so here is a tweetorial \ud83e\uddf5on:\n\n\u2018How to interpret a VUS for the medical specialist\u2019\n\nP\u2026 https://t.co/RvHFh6mhgl",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Eshg2023",
+                        "indices": [
+                            21,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/RvHFh6mhgl",
+                        "expanded_url": "https://twitter.com/i/web/status/1667162736038678528",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1367307235852886017,
+                "id_str": "1367307235852886017",
+                "name": "Ashish Marwaha, BMBCh, MA, PhD, FCCMG, FRCPC",
+                "screen_name": "DrAshM2",
+                "location": "Calgary",
+                "description": "Clinical Medical Geneticist \ud83c\udde8\ud83c\udde6, immunogenetics, #T1D polygenic risk. #raredisease clinical trials.\n\nTweets=own opinion",
+                "url": "https://t.co/7lYIVU8JeB",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/7lYIVU8JeB",
+                                "expanded_url": "https://ca.linkedin.com/in/ashish-marwaha-b3b72859",
+                                "display_url": "ca.linkedin.com/in/ashish-marw\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1530,
+                "friends_count": 2106,
+                "listed_count": 6,
+                "created_at": "Thu Mar 04 02:53:59 +0000 2021",
+                "favourites_count": 3748,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3034,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1367307617786163200/yOZd4aNN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367307617786163200/yOZd4aNN_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 26,
+            "favorite_count": 56,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 21:54:15 +0000 2023",
+        "id": 1674174396552953857,
+        "id_str": "1674174396552953857",
+        "text": "Point from my talk worth reiterating- abortion is an intersectional, not isolated, issue. Abortion bans are bad for\u2026 https://t.co/SZAAyQnD5O",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/SZAAyQnD5O",
+                    "expanded_url": "https://twitter.com/i/web/status/1674174396552953857",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1674085332696924168,
+        "in_reply_to_status_id_str": "1674085332696924168",
+        "in_reply_to_user_id": 1024792997341392906,
+        "in_reply_to_user_id_str": "1024792997341392906",
+        "in_reply_to_screen_name": "ElizFiegCGC",
+        "user": {
+            "id": 1024792997341392906,
+            "id_str": "1024792997341392906",
+            "name": "Elizabeth Fieg (she/her)",
+            "screen_name": "ElizFiegCGC",
+            "location": "Boston, MA",
+            "description": "Senior genetic counselor and program manager @BrighamWomens, Harvard Undiagnosed Diseases Network site coordinator, Gattaca understudy. Tweets are my own.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1287,
+            "friends_count": 1212,
+            "listed_count": 12,
+            "created_at": "Wed Aug 01 23:04:25 +0000 2018",
+            "favourites_count": 24418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1356,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1378121249294012420/wgCDXOgE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378121249294012420/wgCDXOgE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024792997341392906/1534469918",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 18:02:52 +0000 2023",
+        "id": 1674116165482758144,
+        "id_str": "1674116165482758144",
+        "text": "Latina women at risk of hereditary #breast and #OvarianCancer are less likely to be referred for #GeneticCounseling\u2026 https://t.co/o9HAmMcUN7",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "breast",
+                    "indices": [
+                        35,
+                        42
+                    ]
+                },
+                {
+                    "text": "OvarianCancer",
+                    "indices": [
+                        47,
+                        61
+                    ]
+                },
+                {
+                    "text": "GeneticCounseling",
+                    "indices": [
+                        97,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/o9HAmMcUN7",
+                    "expanded_url": "https://twitter.com/i/web/status/1674116165482758144",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 55647330,
+            "id_str": "55647330",
+            "name": "AJMC",
+            "screen_name": "AJMC_Journal",
+            "location": "Cranbury, NJ",
+            "description": "The American Journal of #ManagedCare is a peer-reviewed, indexed publication. https://t.co/I2WRhmhOVC offers news in health policy, disease states, and managed care.",
+            "url": "https://t.co/rhB2aEIXLL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rhB2aEIXLL",
+                            "expanded_url": "http://www.ajmc.com",
+                            "display_url": "ajmc.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/I2WRhmhOVC",
+                            "expanded_url": "http://AJMC.com",
+                            "display_url": "AJMC.com",
+                            "indices": [
+                                78,
+                                101
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7318,
+            "friends_count": 822,
+            "listed_count": 319,
+            "created_at": "Fri Jul 10 19:49:36 +0000 2009",
+            "favourites_count": 2194,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 42420,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1493327298346508297/1Lf4BNma_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493327298346508297/1Lf4BNma_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/55647330/1645544442",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 16:23:30 +0000 2023",
+        "id": 1674091161844084737,
+        "id_str": "1674091161844084737",
+        "text": "RT @uncghhs: Are you already using #AI in your career? Have you considered the privacy implications? @UNCGGC Professor @doublehelixTAT disc\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AI",
+                    "indices": [
+                        35,
+                        38
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "uncghhs",
+                    "name": "UNCG HHS",
+                    "id": 1125444050050527235,
+                    "id_str": "1125444050050527235",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "UNCGGC",
+                    "name": "UNCG Genetic Counseling Program",
+                    "id": 1295726277551247360,
+                    "id_str": "1295726277551247360",
+                    "indices": [
+                        101,
+                        108
+                    ]
+                },
+                {
+                    "screen_name": "doublehelixTAT",
+                    "name": "Rachel Mills, MS, CGC",
+                    "id": 1969197901,
+                    "id_str": "1969197901",
+                    "indices": [
+                        119,
+                        134
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1969197901,
+            "id_str": "1969197901",
+            "name": "Rachel Mills, MS, CGC",
+            "screen_name": "doublehelixTAT",
+            "location": "UNCG / Durham, NC",
+            "description": "I love genetics and I have the tattoo to prove it. certified genetic counselor, assistant professor, PhD pursuer, soapbox stander. she/her/y\u2019all",
+            "url": "https://t.co/EydmDwd8UV",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EydmDwd8UV",
+                            "expanded_url": "http://www.rachelmillscgc.com",
+                            "display_url": "rachelmillscgc.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1745,
+            "friends_count": 579,
+            "listed_count": 25,
+            "created_at": "Fri Oct 18 16:22:02 +0000 2013",
+            "favourites_count": 5608,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3655,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DFE6DD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1356732088821682179/uH5m3Z_l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356732088821682179/uH5m3Z_l_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969197901/1625075636",
+            "profile_link_color": "237A1F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 15:55:05 +0000 2023",
+            "id": 1674084009058398210,
+            "id_str": "1674084009058398210",
+            "text": "Are you already using #AI in your career? Have you considered the privacy implications? @UNCGGC Professor\u2026 https://t.co/HQtxICajSV",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AI",
+                        "indices": [
+                            22,
+                            25
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UNCGGC",
+                        "name": "UNCG Genetic Counseling Program",
+                        "id": 1295726277551247360,
+                        "id_str": "1295726277551247360",
+                        "indices": [
+                            88,
+                            95
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/HQtxICajSV",
+                        "expanded_url": "https://twitter.com/i/web/status/1674084009058398210",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            107,
+                            130
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1125444050050527235,
+                "id_str": "1125444050050527235",
+                "name": "UNCG HHS",
+                "screen_name": "uncghhs",
+                "location": "Greensboro, NC",
+                "description": "@UNCG School of Health and Human Sciences prepares scholars to make an everyday impact on quality of life, individuals, families, and communities. IG: UNCGHHS",
+                "url": "https://t.co/YDO0Xy0mJI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/YDO0Xy0mJI",
+                                "expanded_url": "https://hhs.uncg.edu/",
+                                "display_url": "hhs.uncg.edu",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 469,
+                "friends_count": 624,
+                "listed_count": 4,
+                "created_at": "Mon May 06 16:55:46 +0000 2019",
+                "favourites_count": 1329,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1581,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1126164799623192576/6zPd-IVq_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126164799623192576/6zPd-IVq_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125444050050527235/1633449187",
+                "profile_link_color": "13294B",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jun 26 00:00:25 +0000 2023",
+        "id": 1673118984105865216,
+        "id_str": "1673118984105865216",
+        "text": "\"It\u2019s gratifying to know that my team and I positively impact patient care with appropriate test utilization, clien\u2026 https://t.co/Ho4rjS91ym",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ho4rjS91ym",
+                    "expanded_url": "https://twitter.com/i/web/status/1673118984105865216",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.spredfast.com\" rel=\"nofollow\">Khoros Publishing App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 270900518,
+            "id_str": "270900518",
+            "name": "Mayo Clinic Labs",
+            "screen_name": "mayocliniclabs",
+            "location": "Rochester, Minn.",
+            "description": "Mayo Clinic Laboratories is a global reference laboratory operating within Mayo Clinic\u2019s Department of Laboratory Medicine and Pathology.",
+            "url": "https://t.co/Xjkf9WgjTK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Xjkf9WgjTK",
+                            "expanded_url": "https://news.mayocliniclabs.com/",
+                            "display_url": "news.mayocliniclabs.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16143,
+            "friends_count": 589,
+            "listed_count": 213,
+            "created_at": "Wed Mar 23 13:21:55 +0000 2011",
+            "favourites_count": 554,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13541,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1060615039932096512/AFJdQOsw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060615039932096512/AFJdQOsw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/270900518/1541705320",
+            "profile_link_color": "2F6ECC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Jun 25 18:41:52 +0000 2023",
+        "id": 1673038818675691520,
+        "id_str": "1673038818675691520",
+        "text": "If you're a #geneticcounselor at the #EndNF #NFConference hosted by @ChildrensTumor, let's connect!\n\nI have a Cat 2\u2026 https://t.co/IY51Kj9xK8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "geneticcounselor",
+                    "indices": [
+                        12,
+                        29
+                    ]
+                },
+                {
+                    "text": "EndNF",
+                    "indices": [
+                        37,
+                        43
+                    ]
+                },
+                {
+                    "text": "NFConference",
+                    "indices": [
+                        44,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ChildrensTumor",
+                    "name": "Children's Tumor Fdn",
+                    "id": 30002694,
+                    "id_str": "30002694",
+                    "indices": [
+                        68,
+                        83
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/IY51Kj9xK8",
+                    "expanded_url": "https://twitter.com/i/web/status/1673038818675691520",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 796128114082455552,
+            "id_str": "796128114082455552",
+            "name": "Erin Royer \ud83c\uddfa\ud83c\uddf2",
+            "screen_name": "lucifErinR",
+            "location": "Sioux Falls, SD",
+            "description": "she/her. Nerd. Theatre kid. Genetic Counselor. Progressive. It's all our flag.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 524,
+            "friends_count": 1737,
+            "listed_count": 5,
+            "created_at": "Tue Nov 08 23:11:48 +0000 2016",
+            "favourites_count": 7172,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1811,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/847997327667326976/vmfRCXOy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/847997327667326976/vmfRCXOy_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Jun 27 20:02:57 +0000 2023",
+        "id": 1673783999330754560,
+        "id_str": "1673783999330754560",
+        "text": "Grateful for the incredible efforts of @KensingtonStrat as they volunteered to nurture our Healing Garden. Together\u2026 https://t.co/yAJDsfsQTG",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KensingtonStrat",
+                    "name": "Kensington Asset Management",
+                    "id": 1130485526065221632,
+                    "id_str": "1130485526065221632",
+                    "indices": [
+                        39,
+                        55
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/yAJDsfsQTG",
+                    "expanded_url": "https://twitter.com/i/web/status/1673783999330754560",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 67416375,
+            "id_str": "67416375",
+            "name": "Austin Child Guidance Center",
+            "screen_name": "ATXChildGuide",
+            "location": "Austin, Texas",
+            "description": "ACGC provides accessible, high quality mental health care to children, teens and their families in Texas empowering them to thrive in childhood and beyond.",
+            "url": "https://t.co/o23NHA9xoB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/o23NHA9xoB",
+                            "expanded_url": "http://www.austinchildguidance.org",
+                            "display_url": "austinchildguidance.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1573,
+            "friends_count": 1853,
+            "listed_count": 41,
+            "created_at": "Thu Aug 20 20:32:45 +0000 2009",
+            "favourites_count": 1584,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3182,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1418572291080871941/kF96fc_x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418572291080871941/kF96fc_x_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67416375/1649708439",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Jun 27 09:58:56 +0000 2023",
+        "id": 1673631992603111424,
+        "id_str": "1673631992603111424",
+        "text": "Are you working in an in-house legal team in the public sector? You can get a free registration for ACGC 2023 confe\u2026 https://t.co/FM0oTyMNni",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FM0oTyMNni",
+                    "expanded_url": "https://twitter.com/i/web/status/1673631992603111424",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1276476976933584898,
+            "id_str": "1276476976933584898",
+            "name": "African Corporate & Government Counsel Forum",
+            "screen_name": "african_inhouse",
+            "location": "Africa",
+            "description": "The home for Africa's in-house corporate and government counsel",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 211,
+            "friends_count": 88,
+            "listed_count": 1,
+            "created_at": "Fri Jun 26 11:27:10 +0000 2020",
+            "favourites_count": 120,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 307,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1564611622022352906/ZxHFG141_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1564611622022352906/ZxHFG141_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276476976933584898/1672937450",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 12:12:55 +0000 2023",
+        "id": 1674028098118090752,
+        "id_str": "1674028098118090752",
+        "text": "Check out my new NFT item on OpenSea! \ud83d\ude0d\ud83d\udd25\n#ASHG\n#NFT  #NFTs https://t.co/kvREbHbxWD via @opensea https://t.co/28E8kyRCCZ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ASHG",
+                    "indices": [
+                        41,
+                        46
+                    ]
+                },
+                {
+                    "text": "NFT",
+                    "indices": [
+                        47,
+                        51
+                    ]
+                },
+                {
+                    "text": "NFTs",
+                    "indices": [
+                        53,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "opensea",
+                    "name": "OpenSea",
+                    "id": 946213559213555712,
+                    "id_str": "946213559213555712",
+                    "indices": [
+                        87,
+                        95
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/kvREbHbxWD",
+                    "expanded_url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/56557929536328431283920656744199366928729855147372651767669662570565634883585/",
+                    "display_url": "opensea.io/assets/matic/0\u2026",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1674028095802843137,
+                    "id_str": "1674028095802843137",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FztXrwpaIAEhVuL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FztXrwpaIAEhVuL.jpg",
+                    "url": "https://t.co/28E8kyRCCZ",
+                    "display_url": "pic.twitter.com/28E8kyRCCZ",
+                    "expanded_url": "https://twitter.com/ASHG_Art2004121/status/1674028098118090752/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1674028095802843137,
+                    "id_str": "1674028095802843137",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FztXrwpaIAEhVuL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FztXrwpaIAEhVuL.jpg",
+                    "url": "https://t.co/28E8kyRCCZ",
+                    "display_url": "pic.twitter.com/28E8kyRCCZ",
+                    "expanded_url": "https://twitter.com/ASHG_Art2004121/status/1674028098118090752/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1665689777423921155,
+            "id_str": "1665689777423921155",
+            "name": "ASHG Art",
+            "screen_name": "ASHG_Art2004121",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4,
+            "friends_count": 4,
+            "listed_count": 0,
+            "created_at": "Mon Jun 05 12:00:15 +0000 2023",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1665692707736666112/0vHzxGOM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1665692707736666112/0vHzxGOM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665689777423921155/1686124017",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 20:32:50 +0000 2023",
+        "id": 1674153906421522433,
+        "id_str": "1674153906421522433",
+        "text": "RT @ESSOnews: What #BreastSurgeons need to know about #GeneticTesting in #BreastCancer \u2753\n\ud83d\udca1 Find out next Thu in our #FreeWebinar!\n\ud83d\udd17 https:/\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BreastSurgeons",
+                    "indices": [
+                        19,
+                        34
+                    ]
+                },
+                {
+                    "text": "GeneticTesting",
+                    "indices": [
+                        54,
+                        69
+                    ]
+                },
+                {
+                    "text": "BreastCancer",
+                    "indices": [
+                        73,
+                        86
+                    ]
+                },
+                {
+                    "text": "FreeWebinar",
+                    "indices": [
+                        116,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ESSOnews",
+                    "name": "European Society of Surgical Oncology (ESSO)",
+                    "id": 1876636890,
+                    "id_str": "1876636890",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1082378688900018176,
+            "id_str": "1082378688900018176",
+            "name": "Eduard-Alexandru Bonci",
+            "screen_name": "EdiBonci",
+            "location": "",
+            "description": "MD, PhD | Surgeon | Breast Cancer | Assist. Lecturer @UMF_Cluj | @EYSAC1 SC Member | @ESOncology Ambassador | Husband & proud father | He/him | Tweets mine",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 478,
+            "friends_count": 698,
+            "listed_count": 2,
+            "created_at": "Mon Jan 07 20:49:23 +0000 2019",
+            "favourites_count": 7190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1330,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1597938248638242818/yrpGMkcC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1597938248638242818/yrpGMkcC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082378688900018176/1660812988",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 11:54:49 +0000 2023",
+            "id": 1674023545620267008,
+            "id_str": "1674023545620267008",
+            "text": "What #BreastSurgeons need to know about #GeneticTesting in #BreastCancer \u2753\n\ud83d\udca1 Find out next Thu in our #FreeWebinar!\u2026 https://t.co/kxJn0b3LGq",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BreastSurgeons",
+                        "indices": [
+                            5,
+                            20
+                        ]
+                    },
+                    {
+                        "text": "GeneticTesting",
+                        "indices": [
+                            40,
+                            55
+                        ]
+                    },
+                    {
+                        "text": "BreastCancer",
+                        "indices": [
+                            59,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "FreeWebinar",
+                        "indices": [
+                            102,
+                            114
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kxJn0b3LGq",
+                        "expanded_url": "https://twitter.com/i/web/status/1674023545620267008",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1876636890,
+                "id_str": "1876636890",
+                "name": "European Society of Surgical Oncology (ESSO)",
+                "screen_name": "ESSOnews",
+                "location": "Brussels",
+                "description": "Advancing the science and practice of #cancersurgery for the benefit of #cancerpatients #CureCancerTogether @EYSAC1 @EJSOtweets @myBRESO",
+                "url": "https://t.co/6crU9rsEg2",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/6crU9rsEg2",
+                                "expanded_url": "https://www.essoweb.org/",
+                                "display_url": "essoweb.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8282,
+                "friends_count": 5474,
+                "listed_count": 60,
+                "created_at": "Tue Sep 17 19:40:48 +0000 2013",
+                "favourites_count": 6565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3790,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/979628637195587585/QTAWhwYW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/979628637195587585/QTAWhwYW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876636890/1675268019",
+                "profile_link_color": "00816B",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 13,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 20:18:42 +0000 2023",
+        "id": 1674150351065194504,
+        "id_str": "1674150351065194504",
+        "text": "RT @ESSOnews: What #BreastSurgeons need to know about #GeneticTesting in #BreastCancer \u2753\n\ud83d\udca1 Find out next Thu in our #FreeWebinar!\n\ud83d\udd17 https:/\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BreastSurgeons",
+                    "indices": [
+                        19,
+                        34
+                    ]
+                },
+                {
+                    "text": "GeneticTesting",
+                    "indices": [
+                        54,
+                        69
+                    ]
+                },
+                {
+                    "text": "BreastCancer",
+                    "indices": [
+                        73,
+                        86
+                    ]
+                },
+                {
+                    "text": "FreeWebinar",
+                    "indices": [
+                        116,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ESSOnews",
+                    "name": "European Society of Surgical Oncology (ESSO)",
+                    "id": 1876636890,
+                    "id_str": "1876636890",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2418097570,
+            "id_str": "2418097570",
+            "name": "IR",
+            "screen_name": "itrisabel",
+            "location": "Madrid, Spain",
+            "description": "Breast surgical oncologist, Head, Breast Unit, Working for better training and equity in surgical oncology. #breastcancer. golf player. #ILookLikeASurgeon",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 625,
+            "friends_count": 268,
+            "listed_count": 6,
+            "created_at": "Mon Mar 17 17:39:28 +0000 2014",
+            "favourites_count": 1106,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1883,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/825756154856894464/gnIFJHov_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/825756154856894464/gnIFJHov_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2418097570/1591379875",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 11:54:49 +0000 2023",
+            "id": 1674023545620267008,
+            "id_str": "1674023545620267008",
+            "text": "What #BreastSurgeons need to know about #GeneticTesting in #BreastCancer \u2753\n\ud83d\udca1 Find out next Thu in our #FreeWebinar!\u2026 https://t.co/kxJn0b3LGq",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BreastSurgeons",
+                        "indices": [
+                            5,
+                            20
+                        ]
+                    },
+                    {
+                        "text": "GeneticTesting",
+                        "indices": [
+                            40,
+                            55
+                        ]
+                    },
+                    {
+                        "text": "BreastCancer",
+                        "indices": [
+                            59,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "FreeWebinar",
+                        "indices": [
+                            102,
+                            114
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kxJn0b3LGq",
+                        "expanded_url": "https://twitter.com/i/web/status/1674023545620267008",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1876636890,
+                "id_str": "1876636890",
+                "name": "European Society of Surgical Oncology (ESSO)",
+                "screen_name": "ESSOnews",
+                "location": "Brussels",
+                "description": "Advancing the science and practice of #cancersurgery for the benefit of #cancerpatients #CureCancerTogether @EYSAC1 @EJSOtweets @myBRESO",
+                "url": "https://t.co/6crU9rsEg2",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/6crU9rsEg2",
+                                "expanded_url": "https://www.essoweb.org/",
+                                "display_url": "essoweb.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8282,
+                "friends_count": 5474,
+                "listed_count": 60,
+                "created_at": "Tue Sep 17 19:40:48 +0000 2013",
+                "favourites_count": 6565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3790,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/979628637195587585/QTAWhwYW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/979628637195587585/QTAWhwYW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876636890/1675268019",
+                "profile_link_color": "00816B",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 13,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 16:21:55 +0000 2023",
+        "id": 1674090761149661185,
+        "id_str": "1674090761149661185",
+        "text": "RT @cypriotAlice: \"\ud83e\uddec Exome sequencing in structurally normal fetus poses interpretation challenges. Results may be hard to decipher without\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "cypriotAlice",
+                    "name": "alicevasey",
+                    "id": 1329568531,
+                    "id_str": "1329568531",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 282120332,
+            "id_str": "282120332",
+            "name": "Panicos Shangaris, PhD",
+            "screen_name": "pshangaris",
+            "location": "London",
+            "description": "Clinical Senior Lecturer & Consultant in MFM SocMedia Editor of the RS Journal, Working on Prenatal Therapy for Sickle Cell Disease and immunology of Pregnancy",
+            "url": "https://t.co/QrnaV9bvJM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QrnaV9bvJM",
+                            "expanded_url": "https://kclpure.kcl.ac.uk/portal/panicos.shangaris.html",
+                            "display_url": "kclpure.kcl.ac.uk/portal/panicos\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1033,
+            "friends_count": 3694,
+            "listed_count": 2,
+            "created_at": "Thu Apr 14 15:50:21 +0000 2011",
+            "favourites_count": 1756,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 806,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1637148382178287616/Z9vaHW6y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1637148382178287616/Z9vaHW6y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/282120332/1679161605",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Jun 27 18:41:02 +0000 2023",
+            "id": 1673763385622536197,
+            "id_str": "1673763385622536197",
+            "text": "\"\ud83e\uddec Exome sequencing in structurally normal fetus poses interpretation challenges. Results may be hard to decipher w\u2026 https://t.co/yt0goDDJzr",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/yt0goDDJzr",
+                        "expanded_url": "https://twitter.com/i/web/status/1673763385622536197",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1329568531,
+                "id_str": "1329568531",
+                "name": "alicevasey",
+                "screen_name": "cypriotAlice",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104,
+                "friends_count": 362,
+                "listed_count": 0,
+                "created_at": "Fri Apr 05 16:18:09 +0000 2013",
+                "favourites_count": 810,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 243,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1354482370179686409/vghrxMAR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354482370179686409/vghrxMAR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329568531/1365456555",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 14:17:40 +0000 2023",
+        "id": 1674059493510991877,
+        "id_str": "1674059493510991877",
+        "text": "RT @Rachael_est84: Great event with @nwgmsa today! \n\nReally enjoyed speaking about #genomics with families and staff at Alder Hey today for\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "genomics",
+                    "indices": [
+                        83,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Rachael_est84",
+                    "name": "Rachael Scullion",
+                    "id": 1360940597138370561,
+                    "id_str": "1360940597138370561",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                },
+                {
+                    "screen_name": "nwgmsa",
+                    "name": "NWGMSA",
+                    "id": 1346018178179149825,
+                    "id_str": "1346018178179149825",
+                    "indices": [
+                        36,
+                        43
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1346018178179149825,
+            "id_str": "1346018178179149825",
+            "name": "NWGMSA",
+            "screen_name": "nwgmsa",
+            "location": "",
+            "description": "NHS North West Genomic Medicine Service Alliance - a network created to deliver the benefits of genomics for the people of the North West of England",
+            "url": "https://t.co/9wnU4Ih4d1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9wnU4Ih4d1",
+                            "expanded_url": "https://www.nw-gmsa.nhs.uk",
+                            "display_url": "nw-gmsa.nhs.uk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 929,
+            "friends_count": 854,
+            "listed_count": 1,
+            "created_at": "Mon Jan 04 08:59:08 +0000 2021",
+            "favourites_count": 1700,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1367,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1509592999218626571/rSjefAQr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509592999218626571/rSjefAQr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346018178179149825/1679516851",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 14:15:35 +0000 2023",
+            "id": 1674058970187669514,
+            "id_str": "1674058970187669514",
+            "text": "Great event with @nwgmsa today! \n\nReally enjoyed speaking about #genomics with families and staff at Alder Hey toda\u2026 https://t.co/Y3NLVaNcT5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "genomics",
+                        "indices": [
+                            64,
+                            73
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nwgmsa",
+                        "name": "NWGMSA",
+                        "id": 1346018178179149825,
+                        "id_str": "1346018178179149825",
+                        "indices": [
+                            17,
+                            24
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Y3NLVaNcT5",
+                        "expanded_url": "https://twitter.com/i/web/status/1674058970187669514",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1360940597138370561,
+                "id_str": "1360940597138370561",
+                "name": "Rachael Scullion",
+                "screen_name": "Rachael_est84",
+                "location": "LWH & Alder Hey",
+                "description": "Genomic Practitioner @ Liverpool Centre for Genomic Medicine\n\nGenomic Medicine MSc from #QMUL \n\n#GenomicPractitioner #GeneChat #WGS #Genomics",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 210,
+                "friends_count": 1048,
+                "listed_count": 0,
+                "created_at": "Sun Feb 14 13:15:17 +0000 2021",
+                "favourites_count": 1220,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 231,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1570904204444667910/4F3PyLLB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1570904204444667910/4F3PyLLB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360940597138370561/1664649044",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 22:59:40 +0000 2023",
+        "id": 1674190859909099520,
+        "id_str": "1674190859909099520",
+        "text": "RT @AnavexLifeSci: Long-term Clinical Study Demonstrates Disease Modifying Effects of ANAVEX\u00ae2-73 (blarcamesine) for Rett Syndrome - https:\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AnavexLifeSci",
+                    "name": "Anavex Life Sciences",
+                    "id": 2707283114,
+                    "id_str": "2707283114",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2727927901,
+            "id_str": "2727927901",
+            "name": "Ed Snodgrass",
+            "screen_name": "bdgengineer",
+            "location": "Texas",
+            "description": "\ud83d\udc4d \ud83c\udf08 The rainbow is a promise from God and is not to be hijacked by the demented.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 55,
+            "friends_count": 277,
+            "listed_count": 0,
+            "created_at": "Wed Aug 13 00:25:48 +0000 2014",
+            "favourites_count": 3579,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1456,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1329211266867589123/K2NzZvEp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329211266867589123/K2NzZvEp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2727927901/1599873791",
+            "profile_link_color": "94D487",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 11:43:25 +0000 2023",
+            "id": 1674020677144158208,
+            "id_str": "1674020677144158208",
+            "text": "Long-term Clinical Study Demonstrates Disease Modifying Effects of ANAVEX\u00ae2-73 (blarcamesine) for Rett Syndrome -\u2026 https://t.co/40X9zvAFT9",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/40X9zvAFT9",
+                        "expanded_url": "https://twitter.com/i/web/status/1674020677144158208",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2707283114,
+                "id_str": "2707283114",
+                "name": "Anavex Life Sciences",
+                "screen_name": "AnavexLifeSci",
+                "location": "New York, NY",
+                "description": "A clinical stage biopharmaceutical company developing differentiated therapeutics for the treatment of neurodevelopmental and neurodegenerative  diseases",
+                "url": "https://t.co/Tet5yHksWe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Tet5yHksWe",
+                                "expanded_url": "http://anavex.com/",
+                                "display_url": "anavex.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1855,
+                "friends_count": 182,
+                "listed_count": 18,
+                "created_at": "Mon Aug 04 19:34:16 +0000 2014",
+                "favourites_count": 1957,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 556,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1458232040625745927/P7qHvwiu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458232040625745927/P7qHvwiu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2707283114/1636504890",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 34,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 22:42:26 +0000 2023",
+        "id": 1674186524068569088,
+        "id_str": "1674186524068569088",
+        "text": "Biomarkers are crucial in fundamentally understanding \u2013 and ultimately controlling \u2013 cancer. In a new paper for\u2026 https://t.co/Rl2OQSrj79",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Rl2OQSrj79",
+                    "expanded_url": "https://twitter.com/i/web/status/1674186524068569088",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1101277033408094208,
+            "id_str": "1101277033408094208",
+            "name": "Ellison Institute",
+            "screen_name": "ellisoninst",
+            "location": "Los Angeles, CA",
+            "description": "Reimagining medicine, transforming lives.\nLed by Founding Director & CEO Dr. @DavidAgus",
+            "url": "https://t.co/cWPmkXlR4Q",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cWPmkXlR4Q",
+                            "expanded_url": "http://eitm.org",
+                            "display_url": "eitm.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1097,
+            "friends_count": 642,
+            "listed_count": 9,
+            "created_at": "Fri Mar 01 00:24:40 +0000 2019",
+            "favourites_count": 2108,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2091,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1661061720021012480/ueCGzWp8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1661061720021012480/ueCGzWp8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101277033408094208/1662060369",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 21:59:55 +0000 2023",
+        "id": 1674175823522443264,
+        "id_str": "1674175823522443264",
+        "text": "Join the Colorado Center for Personalized Medicine and the Cole Lab at @CUBiomedInfo! We're seeking a professional\u2026 https://t.co/Zu9olLCJEO",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CUBiomedInfo",
+                    "name": "CU Department of Biomedical Informatics (DBMI)",
+                    "id": 1532442714016346112,
+                    "id_str": "1532442714016346112",
+                    "indices": [
+                        71,
+                        84
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Zu9olLCJEO",
+                    "expanded_url": "https://twitter.com/i/web/status/1674175823522443264",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1674175821949571072,
+        "in_reply_to_status_id_str": "1674175821949571072",
+        "in_reply_to_user_id": 1387777147167780865,
+        "in_reply_to_user_id_str": "1387777147167780865",
+        "in_reply_to_screen_name": "CUHealthAI",
+        "user": {
+            "id": 1387777147167780865,
+            "id_str": "1387777147167780865",
+            "name": "Center for Health AI @ CU Anschutz",
+            "screen_name": "CUHealthAI",
+            "location": "Aurora, Colorado",
+            "description": "",
+            "url": "https://t.co/acNOd1KtQ5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/acNOd1KtQ5",
+                            "expanded_url": "http://medschool.cuanschutz.edu/ai",
+                            "display_url": "medschool.cuanschutz.edu/ai",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 303,
+            "friends_count": 115,
+            "listed_count": 3,
+            "created_at": "Thu Apr 29 14:34:43 +0000 2021",
+            "favourites_count": 680,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 440,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1452640196537851911/uA-PVE7h_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1452640196537851911/uA-PVE7h_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387777147167780865/1627573619",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 23:11:32 +0000 2023",
+        "id": 1674193845502849024,
+        "id_str": "1674193845502849024",
+        "text": "RT @Primary_Immune: \ud83e\uddecInborn Error of Immunity\n 3 novel mutations - in 'STAT1,' 'NEMO,' and 'CYBB'\n      implicated in severe, disseminated\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Primary_Immune",
+                    "name": "Yoni Maisel",
+                    "id": 79975924,
+                    "id_str": "79975924",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://twitter.com/sme_rt\" rel=\"nofollow\">SME Support</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1150729203563806720,
+            "id_str": "1150729203563806720",
+            "name": "streamachine retweets \ud83c\uddec\ud83c\udde7",
+            "screen_name": "sme_rt",
+            "location": "UK",
+            "description": "Follow & add @sme_rt for retweets https://t.co/AQwHNkVscg",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AQwHNkVscg",
+                            "expanded_url": "http://discord.com/invite/ZbbQnTc",
+                            "display_url": "discord.com/invite/ZbbQnTc",
+                            "indices": [
+                                34,
+                                57
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 33150,
+            "friends_count": 7670,
+            "listed_count": 156,
+            "created_at": "Mon Jul 15 11:29:56 +0000 2019",
+            "favourites_count": 1804,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 995523,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380480781613740033/rMU3TGYK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380480781613740033/rMU3TGYK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150729203563806720/1624817139",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 23:11:22 +0000 2023",
+            "id": 1674193804864241666,
+            "id_str": "1674193804864241666",
+            "text": "\ud83e\uddecInborn Error of Immunity\n 3 novel mutations - in 'STAT1,' 'NEMO,' and 'CYBB'\n      implicated in severe, dissemina\u2026 https://t.co/9LAhbGw3gU",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/9LAhbGw3gU",
+                        "expanded_url": "https://twitter.com/i/web/status/1674193804864241666",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 79975924,
+                "id_str": "79975924",
+                "name": "Yoni Maisel",
+                "screen_name": "Primary_Immune",
+                "location": "Haifa, Israel",
+                "description": "Dad. Immunodeficient. Has 2 rare diseases: CVID + Sweet's syndrome. Patient advocate. Genomic medicine proponent. Dogs. #RareDisease #genomics #immunology\n\u05d9\u05d4\u05d5\u05d3\u05d9",
+                "url": "https://t.co/Boj28ltink",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Boj28ltink",
+                                "expanded_url": "https://www.mutationwatch.com/journal",
+                                "display_url": "mutationwatch.com/journal",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 34606,
+                "friends_count": 23677,
+                "listed_count": 712,
+                "created_at": "Mon Oct 05 09:23:34 +0000 2009",
+                "favourites_count": 58585,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 63051,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1484178785738002443/e9T52V6S_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484178785738002443/e9T52V6S_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/79975924/1583330999",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 23:11:22 +0000 2023",
+        "id": 1674193804864241666,
+        "id_str": "1674193804864241666",
+        "text": "\ud83e\uddecInborn Error of Immunity\n 3 novel mutations - in 'STAT1,' 'NEMO,' and 'CYBB'\n      implicated in severe, dissemina\u2026 https://t.co/9LAhbGw3gU",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9LAhbGw3gU",
+                    "expanded_url": "https://twitter.com/i/web/status/1674193804864241666",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 79975924,
+            "id_str": "79975924",
+            "name": "Yoni Maisel",
+            "screen_name": "Primary_Immune",
+            "location": "Haifa, Israel",
+            "description": "Dad. Immunodeficient. Has 2 rare diseases: CVID + Sweet's syndrome. Patient advocate. Genomic medicine proponent. Dogs. #RareDisease #genomics #immunology\n\u05d9\u05d4\u05d5\u05d3\u05d9",
+            "url": "https://t.co/Boj28ltink",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Boj28ltink",
+                            "expanded_url": "https://www.mutationwatch.com/journal",
+                            "display_url": "mutationwatch.com/journal",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34606,
+            "friends_count": 23677,
+            "listed_count": 712,
+            "created_at": "Mon Oct 05 09:23:34 +0000 2009",
+            "favourites_count": 58585,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 63051,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1484178785738002443/e9T52V6S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484178785738002443/e9T52V6S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/79975924/1583330999",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 15:28:06 +0000 2023",
+        "id": 1674077217867825154,
+        "id_str": "1674077217867825154",
+        "text": "As we venture further into 2023, #Glooko\u2019s Russ Johannesson shares his perspective in @HITConsultant on the\u2026 https://t.co/ZKBLYdK1z2",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Glooko",
+                    "indices": [
+                        33,
+                        40
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hitconsultant",
+                    "name": "HIT Consultant Media",
+                    "id": 24249169,
+                    "id_str": "24249169",
+                    "indices": [
+                        86,
+                        100
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ZKBLYdK1z2",
+                    "expanded_url": "https://twitter.com/i/web/status/1674077217867825154",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 353925394,
+            "id_str": "353925394",
+            "name": "Glooko",
+            "screen_name": "GlookoInc",
+            "location": "30+ countries",
+            "description": "At #Glooko, our #ConnectedCare platforms empower the management of #diabetes and related #ChronicConditions by bringing data insights together. #BetterTogether",
+            "url": "https://t.co/rH0nKJg3bl",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rH0nKJg3bl",
+                            "expanded_url": "http://www.glooko.com",
+                            "display_url": "glooko.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2923,
+            "friends_count": 1695,
+            "listed_count": 188,
+            "created_at": "Fri Aug 12 21:17:57 +0000 2011",
+            "favourites_count": 1251,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2927,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1282C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1473321027178573825/0lHTUwvW_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1473321027178573825/0lHTUwvW_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/353925394/1683645174",
+            "profile_link_color": "1282C2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "0F010F",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 14:09:25 +0000 2023",
+        "id": 1674057418341318658,
+        "id_str": "1674057418341318658",
+        "text": "RT @EFPIA: #PrecisionHealth delivers the right intervention to the right population at the right time. It can improve #patient care in comm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PrecisionHealth",
+                    "indices": [
+                        11,
+                        27
+                    ]
+                },
+                {
+                    "text": "patient",
+                    "indices": [
+                        118,
+                        126
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EFPIA",
+                    "name": "EFPIA",
+                    "id": 52084584,
+                    "id_str": "52084584",
+                    "indices": [
+                        3,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2508089365,
+            "id_str": "2508089365",
+            "name": "Dr Kristin Jakobs",
+            "screen_name": "KristinJakobs1",
+            "location": "Ingelheim, Germany",
+            "description": "Qualified pharmacist and experienced communications expert. Comms Germany @Boehringer.Ingelheim",
+            "url": "https://t.co/z2qOQ7zMy1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/z2qOQ7zMy1",
+                            "expanded_url": "http://boehringer-ingelheim.de",
+                            "display_url": "boehringer-ingelheim.de",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 148,
+            "friends_count": 183,
+            "listed_count": 19,
+            "created_at": "Mon May 19 18:10:20 +0000 2014",
+            "favourites_count": 3116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2134,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/468456917631643649/wb76S7WJ_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/468456917631643649/wb76S7WJ_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Jun 26 13:16:07 +0000 2023",
+            "id": 1673319228311470081,
+            "id_str": "1673319228311470081",
+            "text": "#PrecisionHealth delivers the right intervention to the right population at the right time. It can improve #patient\u2026 https://t.co/hc0y5wFXqO",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PrecisionHealth",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "text": "patient",
+                        "indices": [
+                            107,
+                            115
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/hc0y5wFXqO",
+                        "expanded_url": "https://twitter.com/i/web/status/1673319228311470081",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 52084584,
+                "id_str": "52084584",
+                "name": "EFPIA",
+                "screen_name": "EFPIA",
+                "location": "Brussels",
+                "description": "EFPIA is the voice of the research-based pharmaceutical industry in Europe \n#WeWontRest #TeamVaccines\nhttps://t.co/y1FLniUcoT",
+                "url": "http://t.co/kGrDP4le",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/kGrDP4le",
+                                "expanded_url": "http://www.efpia.eu",
+                                "display_url": "efpia.eu",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/y1FLniUcoT",
+                                "expanded_url": "http://efpia.eu",
+                                "display_url": "efpia.eu",
+                                "indices": [
+                                    102,
+                                    125
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 26475,
+                "friends_count": 3872,
+                "listed_count": 618,
+                "created_at": "Mon Jun 29 15:16:42 +0000 2009",
+                "favourites_count": 2731,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 29592,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "008898",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/600282411314712576/oSBUt3G9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/600282411314712576/oSBUt3G9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/52084584/1632233065",
+                "profile_link_color": "008898",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 8,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 17:48:18 +0000 2023",
+        "id": 1674112501913354279,
+        "id_str": "1674112501913354279",
+        "text": "RT @UCCancerCenter: \ud83d\udce2 @ACSCAN #Pharmacogenomics summit is happening tomorrow! \nJoin Peter O\u2019Donnell, MD from @UChicagoMed, to learn about U\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pharmacogenomics",
+                    "indices": [
+                        30,
+                        47
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "UCCancerCenter",
+                    "name": "UChicagoCancerCenter",
+                    "id": 150794946,
+                    "id_str": "150794946",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "ACSCAN",
+                    "name": "American Cancer Society Cancer Action Network",
+                    "id": 15008539,
+                    "id_str": "15008539",
+                    "indices": [
+                        22,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "UChicagoMed",
+                    "name": "UChicago Medicine",
+                    "id": 243224758,
+                    "id_str": "243224758",
+                    "indices": [
+                        109,
+                        121
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 329135191,
+            "id_str": "329135191",
+            "name": "Alkis Papachristos, PharmD, PhD",
+            "screen_name": "alkis_p",
+            "location": "Chicago, IL",
+            "description": "Postdoctoral Fellow in Clinical Pharmacology and Pharmacogenomics at University of Chicago \u2022 Tweets are my own",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 302,
+            "friends_count": 610,
+            "listed_count": 5,
+            "created_at": "Mon Jul 04 16:03:25 +0000 2011",
+            "favourites_count": 4928,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 280,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1002598246081093632/U9HXXCP6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002598246081093632/U9HXXCP6_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 17:40:25 +0000 2023",
+            "id": 1674110518708011023,
+            "id_str": "1674110518708011023",
+            "text": "\ud83d\udce2 @ACSCAN #Pharmacogenomics summit is happening tomorrow! \nJoin Peter O\u2019Donnell, MD from @UChicagoMed, to learn abo\u2026 https://t.co/uZxEPgBz4R",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Pharmacogenomics",
+                        "indices": [
+                            10,
+                            27
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ACSCAN",
+                        "name": "American Cancer Society Cancer Action Network",
+                        "id": 15008539,
+                        "id_str": "15008539",
+                        "indices": [
+                            2,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "UChicagoMed",
+                        "name": "UChicago Medicine",
+                        "id": 243224758,
+                        "id_str": "243224758",
+                        "indices": [
+                            89,
+                            101
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/uZxEPgBz4R",
+                        "expanded_url": "https://twitter.com/i/web/status/1674110518708011023",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 150794946,
+                "id_str": "150794946",
+                "name": "UChicagoCancerCenter",
+                "screen_name": "UCCancerCenter",
+                "location": "Chicago, IL",
+                "description": "Official Twitter of the NCI-designated University of Chicago Medicine Comprehensive Cancer Center, Chicago, IL USA. #WeAreNCIDesignated #NothingWillStopUs",
+                "url": "https://t.co/dEJIFu7CE7",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dEJIFu7CE7",
+                                "expanded_url": "https://www.uchicagomedicine.org/cancer",
+                                "display_url": "uchicagomedicine.org/cancer",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9416,
+                "friends_count": 1527,
+                "listed_count": 220,
+                "created_at": "Tue Jun 01 21:14:15 +0000 2010",
+                "favourites_count": 8007,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12446,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/908346693112004610/XBslJMeQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/908346693112004610/XBslJMeQ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/150794946/1659032898",
+                "profile_link_color": "8B0021",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 17:40:25 +0000 2023",
+        "id": 1674110518708011023,
+        "id_str": "1674110518708011023",
+        "text": "\ud83d\udce2 @ACSCAN #Pharmacogenomics summit is happening tomorrow! \nJoin Peter O\u2019Donnell, MD from @UChicagoMed, to learn abo\u2026 https://t.co/uZxEPgBz4R",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pharmacogenomics",
+                    "indices": [
+                        10,
+                        27
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ACSCAN",
+                    "name": "American Cancer Society Cancer Action Network",
+                    "id": 15008539,
+                    "id_str": "15008539",
+                    "indices": [
+                        2,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "UChicagoMed",
+                    "name": "UChicago Medicine",
+                    "id": 243224758,
+                    "id_str": "243224758",
+                    "indices": [
+                        89,
+                        101
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/uZxEPgBz4R",
+                    "expanded_url": "https://twitter.com/i/web/status/1674110518708011023",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 150794946,
+            "id_str": "150794946",
+            "name": "UChicagoCancerCenter",
+            "screen_name": "UCCancerCenter",
+            "location": "Chicago, IL",
+            "description": "Official Twitter of the NCI-designated University of Chicago Medicine Comprehensive Cancer Center, Chicago, IL USA. #WeAreNCIDesignated #NothingWillStopUs",
+            "url": "https://t.co/dEJIFu7CE7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dEJIFu7CE7",
+                            "expanded_url": "https://www.uchicagomedicine.org/cancer",
+                            "display_url": "uchicagomedicine.org/cancer",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9416,
+            "friends_count": 1527,
+            "listed_count": 220,
+            "created_at": "Tue Jun 01 21:14:15 +0000 2010",
+            "favourites_count": 8007,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12446,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/908346693112004610/XBslJMeQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/908346693112004610/XBslJMeQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/150794946/1659032898",
+            "profile_link_color": "8B0021",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jun 28 17:03:25 +0000 2023",
+        "id": 1674101208150048786,
+        "id_str": "1674101208150048786",
+        "text": "RT @GCCE_LUC: #GCCE\n#WhatsGoodWednesday\n#WiseWordsWednesday\n#WordsofWisdomWednesday\n#WorthyWednesday https://t.co/nKp507nudf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "GCCE",
+                    "indices": [
+                        14,
+                        19
+                    ]
+                },
+                {
+                    "text": "WhatsGoodWednesday",
+                    "indices": [
+                        20,
+                        39
+                    ]
+                },
+                {
+                    "text": "WiseWordsWednesday",
+                    "indices": [
+                        40,
+                        59
+                    ]
+                },
+                {
+                    "text": "WordsofWisdomWednesday",
+                    "indices": [
+                        60,
+                        83
+                    ]
+                },
+                {
+                    "text": "WorthyWednesday",
+                    "indices": [
+                        84,
+                        100
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GCCE_LUC",
+                    "name": "Greeley Center",
+                    "id": 976299506,
+                    "id_str": "976299506",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1674100361747890177,
+                    "id_str": "1674100361747890177",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "url": "https://t.co/nKp507nudf",
+                    "display_url": "pic.twitter.com/nKp507nudf",
+                    "expanded_url": "https://twitter.com/GCCE_LUC/status/1674100753063870469/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1674100753063870469,
+                    "source_status_id_str": "1674100753063870469",
+                    "source_user_id": 976299506,
+                    "source_user_id_str": "976299506"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1674100361747890177,
+                    "id_str": "1674100361747890177",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "url": "https://t.co/nKp507nudf",
+                    "display_url": "pic.twitter.com/nKp507nudf",
+                    "expanded_url": "https://twitter.com/GCCE_LUC/status/1674100753063870469/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1674100753063870469,
+                    "source_status_id_str": "1674100753063870469",
+                    "source_user_id": 976299506,
+                    "source_user_id_str": "976299506"
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 17840357,
+            "id_str": "17840357",
+            "name": "Lisa Cunningham",
+            "screen_name": "LisaGemini",
+            "location": "Clearwater, FL",
+            "description": "Writes Savvy Dating, a blog for singles over age 50. #Dating #Christian surviving #cancer for 30+ yrs. Please, no DMs.",
+            "url": "https://t.co/6W9v3IP813",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6W9v3IP813",
+                            "expanded_url": "https://medium.com/@LisaGemini",
+                            "display_url": "medium.com/@LisaGemini",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3929,
+            "friends_count": 4999,
+            "listed_count": 292,
+            "created_at": "Wed Dec 03 16:29:21 +0000 2008",
+            "favourites_count": 11120,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 118666,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "905DD7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158925359083073536/BFgfBzXw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158925359083073536/BFgfBzXw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17840357/1581800431",
+            "profile_link_color": "905DD7",
+            "profile_sidebar_border_color": "E4D1FE",
+            "profile_sidebar_fill_color": "E4D1FE",
+            "profile_text_color": "1F3ECD",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jun 28 17:01:37 +0000 2023",
+            "id": 1674100753063870469,
+            "id_str": "1674100753063870469",
+            "text": "#GCCE\n#WhatsGoodWednesday\n#WiseWordsWednesday\n#WordsofWisdomWednesday\n#WorthyWednesday https://t.co/nKp507nudf",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "GCCE",
+                        "indices": [
+                            0,
+                            5
+                        ]
+                    },
+                    {
+                        "text": "WhatsGoodWednesday",
+                        "indices": [
+                            6,
+                            25
+                        ]
+                    },
+                    {
+                        "text": "WiseWordsWednesday",
+                        "indices": [
+                            26,
+                            45
+                        ]
+                    },
+                    {
+                        "text": "WordsofWisdomWednesday",
+                        "indices": [
+                            46,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "WorthyWednesday",
+                        "indices": [
+                            70,
+                            86
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1674100361747890177,
+                        "id_str": "1674100361747890177",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                        "url": "https://t.co/nKp507nudf",
+                        "display_url": "pic.twitter.com/nKp507nudf",
+                        "expanded_url": "https://twitter.com/GCCE_LUC/status/1674100753063870469/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1674100361747890177,
+                        "id_str": "1674100361747890177",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                        "url": "https://t.co/nKp507nudf",
+                        "display_url": "pic.twitter.com/nKp507nudf",
+                        "expanded_url": "https://twitter.com/GCCE_LUC/status/1674100753063870469/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 976299506,
+                "id_str": "976299506",
+                "name": "Greeley Center",
+                "screen_name": "GCCE_LUC",
+                "location": "Chicago",
+                "description": "The Andrew M. Greeley Center for Catholic Education at Loyola University Chicago. Inspiring innovation for a faith-filled future.",
+                "url": "http://t.co/UjXeXeXxb9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UjXeXeXxb9",
+                                "expanded_url": "http://luc.edu/gcce",
+                                "display_url": "luc.edu/gcce",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1342,
+                "friends_count": 564,
+                "listed_count": 40,
+                "created_at": "Wed Nov 28 15:00:07 +0000 2012",
+                "favourites_count": 12814,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11092,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "181C1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1416021517503242252/IWX1Y3G5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1416021517503242252/IWX1Y3G5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/976299506/1626440814",
+                "profile_link_color": "575E61",
+                "profile_sidebar_border_color": "454B52",
+                "profile_sidebar_fill_color": "0E1621",
+                "profile_text_color": "CB9934",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Wed Jun 28 17:01:37 +0000 2023",
+        "id": 1674100753063870469,
+        "id_str": "1674100753063870469",
+        "text": "#GCCE\n#WhatsGoodWednesday\n#WiseWordsWednesday\n#WordsofWisdomWednesday\n#WorthyWednesday https://t.co/nKp507nudf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "GCCE",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "text": "WhatsGoodWednesday",
+                    "indices": [
+                        6,
+                        25
+                    ]
+                },
+                {
+                    "text": "WiseWordsWednesday",
+                    "indices": [
+                        26,
+                        45
+                    ]
+                },
+                {
+                    "text": "WordsofWisdomWednesday",
+                    "indices": [
+                        46,
+                        69
+                    ]
+                },
+                {
+                    "text": "WorthyWednesday",
+                    "indices": [
+                        70,
+                        86
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1674100361747890177,
+                    "id_str": "1674100361747890177",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "url": "https://t.co/nKp507nudf",
+                    "display_url": "pic.twitter.com/nKp507nudf",
+                    "expanded_url": "https://twitter.com/GCCE_LUC/status/1674100753063870469/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1674100361747890177,
+                    "id_str": "1674100361747890177",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FzuZaMRWAAEDujk.jpg",
+                    "url": "https://t.co/nKp507nudf",
+                    "display_url": "pic.twitter.com/nKp507nudf",
+                    "expanded_url": "https://twitter.com/GCCE_LUC/status/1674100753063870469/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 976299506,
+            "id_str": "976299506",
+            "name": "Greeley Center",
+            "screen_name": "GCCE_LUC",
+            "location": "Chicago",
+            "description": "The Andrew M. Greeley Center for Catholic Education at Loyola University Chicago. Inspiring innovation for a faith-filled future.",
+            "url": "http://t.co/UjXeXeXxb9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/UjXeXeXxb9",
+                            "expanded_url": "http://luc.edu/gcce",
+                            "display_url": "luc.edu/gcce",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1342,
+            "friends_count": 564,
+            "listed_count": 40,
+            "created_at": "Wed Nov 28 15:00:07 +0000 2012",
+            "favourites_count": 12814,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11092,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "181C1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1416021517503242252/IWX1Y3G5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1416021517503242252/IWX1Y3G5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/976299506/1626440814",
+            "profile_link_color": "575E61",
+            "profile_sidebar_border_color": "454B52",
+            "profile_sidebar_fill_color": "0E1621",
+            "profile_text_color": "CB9934",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    }
+]

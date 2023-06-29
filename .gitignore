@@ -4,3 +4,4 @@ methods/config.py
 config.pyc
 __pycache__
 tests/credentials.json
+docs/token.json
